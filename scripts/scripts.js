@@ -2,8 +2,7 @@ document.addEventListener("DOMContentLoaded", initializeApp);
 
 function initializeApp() {
     displayMeme();
-
-    console.log("test");
+    console.log('test');
 }
 
 async function displayMeme() {
